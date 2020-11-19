@@ -1,1 +1,3 @@
-# Fitness-Tracker
+# Fitness Tracker
+
+Fitness Tracking application
